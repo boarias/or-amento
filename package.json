@@ -13,9 +13,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "devDependencies": {},
   "engines": {
-    "node": "16.x",
+    "node": "18.x",
     "npm": "8.x"
   }
 }
